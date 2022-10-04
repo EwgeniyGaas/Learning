@@ -1,6 +1,7 @@
 # Hello
 ## Wie geht`s?
 ### Alles gut!
+<<<<<<< HEAD
 ghbhd
 =====
 dsgdsag
@@ -10,3 +11,4 @@ dsgdsag
 ```
 print()
 ```
+=======
