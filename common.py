@@ -1,5 +1,6 @@
 print("Hello world!")
 
-print("Wie geht`s?")
+print("Was ist los?")
 
 print("Nothing")
+
